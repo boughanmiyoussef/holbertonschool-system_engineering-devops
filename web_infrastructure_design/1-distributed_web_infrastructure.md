@@ -1,9 +1,5 @@
 # 1. Distributed web infrastructure
 
-
-<a href="https://ibb.co/1GGyzjD"><img src="https://i.ibb.co/xqq9Fdp/task-1.png" alt="task-1" border="0"></a>
-
-
 ## Infrastructure Components:
 
 

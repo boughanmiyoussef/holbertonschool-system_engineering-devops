@@ -1,7 +1,5 @@
 # 2. Secured and monitored web infrastructure
 
-<a href="https://ibb.co/ydpFJby"><img src="https://i.ibb.co/TY1M5F8/task-2.png" alt="task-2" border="0"></a>
-
 ## Infrastructure Components:
 
 ### SSL (Secure Sockets Layer):

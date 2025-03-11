@@ -1,12 +1,6 @@
 
 # 0. Simple web stack
 
-
-
-
-<a href="https://ibb.co/bWzmTjT"><img src="https://i.ibb.co/gjz9NbN/task-0.png" alt="task-0" border="0"></a>
-
-
 ## What is Server:
 
 A server is a hardware device or software that processes requests sent over a network and replies to them. A client is the device that submits a request and waits for a response from the server. The computer system that accepts requests for online files and transmits those files to the client is referred to as a “server” in the context of the Internet.
